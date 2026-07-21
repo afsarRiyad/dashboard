@@ -1,4 +1,4 @@
-live link : https://dashboard-j6az-hmcjlixx5-nurulafsarriyad06-2470s-projects.vercel.app
+live link : https://dashboard-omega-lilac-63.vercel.app
 
 # React + TypeScript + Vite + shadcn/ui
 
